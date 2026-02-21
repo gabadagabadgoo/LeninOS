@@ -1,1 +1,1 @@
-A Soviet-themed desktop environment built with Electron. Features a windowed OS with boot sequence, People's Terminal, Propaganda Net browser, Underground Net (unrestricted proxy browsing), State Arcade Bureau (900+ games), Communist Gallery, State Archives file manager, and 5-Year Plan system monitor. All wrapped in CRT scanlines and socialist aesthetics.
+RUN FART.BAT TO INSTALL
